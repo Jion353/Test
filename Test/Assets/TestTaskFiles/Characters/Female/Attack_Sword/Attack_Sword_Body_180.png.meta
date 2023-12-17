@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 809
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a306b1f724513d4980edb3d5f55058e
+      internalID: -1982907566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 809
+        width: 74
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853bb701df94fd49b004d0e3798605b
+      internalID: -477548121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 809
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ac322b2a482c48850e9110fdf208e
+      internalID: -1731383765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 809
+        width: 78
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ee8c2f5eb67f42bd2a68488e023f7
+      internalID: -1139861616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 809
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ef14f025ddd34f89be09ad7e7ecd1
+      internalID: -485436783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_5
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 809
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca9b43ea51ab04884bc953a668efb9
+      internalID: -1067471178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 553
+        width: 105
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e822ab4307064f8c2d3f8ddd324cd
+      internalID: 952185298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 553
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476e3bb562831d4ab6c3068d009745f
+      internalID: -606421277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 553
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde17818a3c659459e01aa826f9f758
+      internalID: -1959982343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 552
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf690d6824a0248bcaf48d971c6a07
+      internalID: -1150791132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_10
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 552
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9e855d69d74f4b8ee3f5775de5c12
+      internalID: 1467519388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_11
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 553
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca701d52b69ab34fbe3e69de5a50662
+      internalID: 1396356424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 297
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb6d7806f168034eb94a1dad84cfc98
+      internalID: 793097462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 297
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689928d5354f74e419afdde089cf48d0
+      internalID: -1507491760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 297
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5403b9eccf92c9a4d86d8e447af4a80c
+      internalID: -211930269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 297
+        width: 74
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c9e015fc4a5247ae08216acb61af8
+      internalID: -1469940613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_16
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 297
+        width: 72
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628c61659e574a49ae96bc226254105
+      internalID: -1059770293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 297
+        width: 69
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79398b838e59b49a3964d928cb94f3
+      internalID: -152196860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 41
+        width: 73
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643d89f145204c4b88ba6ada4009e81
+      internalID: -1449461856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 41
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b795c8a545dd488af316602e7b3d9
+      internalID: 1123105104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 41
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bc9ec162758044589e7d0140cb6973
+      internalID: -1436517618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 41
+        width: 77
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a5fb3832da9304f865a4e9e7435785
+      internalID: -376785133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_22
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 41
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7571c1e550934cb7ab9fceb195e89
+      internalID: 247907313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Body_180_23
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 41
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8730f363793e84faeee604f4dd9f73
+      internalID: 1132607653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +636,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Attack_Sword_Body_180_0: -1982907566
+      Attack_Sword_Body_180_1: -477548121
+      Attack_Sword_Body_180_10: 1467519388
+      Attack_Sword_Body_180_11: 1396356424
+      Attack_Sword_Body_180_12: 793097462
+      Attack_Sword_Body_180_13: -1507491760
+      Attack_Sword_Body_180_14: -211930269
+      Attack_Sword_Body_180_15: -1469940613
+      Attack_Sword_Body_180_16: -1059770293
+      Attack_Sword_Body_180_17: -152196860
+      Attack_Sword_Body_180_18: -1449461856
+      Attack_Sword_Body_180_19: 1123105104
+      Attack_Sword_Body_180_2: -1731383765
+      Attack_Sword_Body_180_20: -1436517618
+      Attack_Sword_Body_180_21: -376785133
+      Attack_Sword_Body_180_22: 247907313
+      Attack_Sword_Body_180_23: 1132607653
+      Attack_Sword_Body_180_3: -1139861616
+      Attack_Sword_Body_180_4: -485436783
+      Attack_Sword_Body_180_5: -1067471178
+      Attack_Sword_Body_180_6: 952185298
+      Attack_Sword_Body_180_7: -606421277
+      Attack_Sword_Body_180_8: -1959982343
+      Attack_Sword_Body_180_9: -1150791132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
