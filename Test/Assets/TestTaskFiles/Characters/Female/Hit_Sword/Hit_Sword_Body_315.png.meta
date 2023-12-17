@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 835
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a11e306c790504587be81e06cad6d7
+      internalID: -864014496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 835
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9581e0c4a100429eca1098c5f2e9c
+      internalID: 275917489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 835
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b15210b89fb58448a4f868df3bf0ba7
+      internalID: 328058626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 835
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b29ea36111d6d47861fe257b8bdec0
+      internalID: 310074011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 579
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc461c33c90fb45a325ee4f51900ec
+      internalID: 77610055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 579
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d769394b2ec564598f51deffafaefb
+      internalID: -1584182723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 579
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a25e61e00ea3418324bea251d42f4
+      internalID: 1211091646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 579
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe1579527a01244a105d92b073470e
+      internalID: 513908436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 323
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba342fc6006c26b40a92ea0aa0d47f1f
+      internalID: -1795422227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 323
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f080e61ca0a94fb55de60a8966a17
+      internalID: 1095588089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 323
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705d5549568e034990fcb40cbe994a8
+      internalID: 69790432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 323
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0d3f048de3d4489ef3fce307d1940
+      internalID: 642556052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 67
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158a34b60d32b247bc7d4a63ee3285f
+      internalID: -1905568745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 67
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b30ec2459ffe947b1350df4d3bf057
+      internalID: 468373608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 67
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4682ee3d6c46e949ad2fe37a538cd41
+      internalID: -676494312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Sword_Body_315_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 67
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3dfee2e64f4264f9ee8dac0fd88a7d
+      internalID: -1988897550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +468,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hit_Sword_Body_315_0: -864014496
+      Hit_Sword_Body_315_1: 275917489
+      Hit_Sword_Body_315_10: 69790432
+      Hit_Sword_Body_315_11: 642556052
+      Hit_Sword_Body_315_12: -1905568745
+      Hit_Sword_Body_315_13: 468373608
+      Hit_Sword_Body_315_14: -676494312
+      Hit_Sword_Body_315_15: -1988897550
+      Hit_Sword_Body_315_2: 328058626
+      Hit_Sword_Body_315_3: 310074011
+      Hit_Sword_Body_315_4: 77610055
+      Hit_Sword_Body_315_5: -1584182723
+      Hit_Sword_Body_315_6: 1211091646
+      Hit_Sword_Body_315_7: 513908436
+      Hit_Sword_Body_315_8: -1795422227
+      Hit_Sword_Body_315_9: 1095588089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 809
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab5f1c714f4e44eba3625ec1069098
+      internalID: -965263457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 809
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277fc6770aeb23f49950ff4895cb0427
+      internalID: 867228006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 809
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62200ed21ff73499a76fd90a91af3e
+      internalID: -1365258657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 809
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c13f38eb10a9b4bbb109f2ace90778
+      internalID: -1826880897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 553
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93e522d02aa3c4f8733516fe8b9f27
+      internalID: -1687448910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 553
+        width: 77
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0478bdad9ec154da10deb62c31631b
+      internalID: -1545009299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 553
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a14a1b87ce6a545beab14a3ed6e238
+      internalID: 2143210076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 553
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf35549138d064ba636fa71dba13cc
+      internalID: -821818039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 297
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe428b1eb5aa64ab6a04178a83c71a
+      internalID: 1265561129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 297
+        width: 77
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a25f81582c83c4e946277c13b09d0d
+      internalID: 2075931426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 297
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800e35aecb0fd394a86a8baa0792c805
+      internalID: 1408551814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 297
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca1042fb1bb0f428e2efebf190ae7c
+      internalID: -1355045203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca9899320783748b852f291653bf8b
+      internalID: -1834101937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4757f81dc79348b91c3fc161fca65
+      internalID: -1891878013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 41
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89335957040a3694d8a51904aa20b554
+      internalID: -1158839749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Sword_Body_180_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 41
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35d6257136e0640b440f38e1683ac7
+      internalID: -706608057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +468,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idle_Sword_Body_180_0: -965263457
+      Idle_Sword_Body_180_1: 867228006
+      Idle_Sword_Body_180_10: 1408551814
+      Idle_Sword_Body_180_11: -1355045203
+      Idle_Sword_Body_180_12: -1834101937
+      Idle_Sword_Body_180_13: -1891878013
+      Idle_Sword_Body_180_14: -1158839749
+      Idle_Sword_Body_180_15: -706608057
+      Idle_Sword_Body_180_2: -1365258657
+      Idle_Sword_Body_180_3: -1826880897
+      Idle_Sword_Body_180_4: -1687448910
+      Idle_Sword_Body_180_5: -1545009299
+      Idle_Sword_Body_180_6: 2143210076
+      Idle_Sword_Body_180_7: -821818039
+      Idle_Sword_Body_180_8: 1265561129
+      Idle_Sword_Body_180_9: 2075931426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

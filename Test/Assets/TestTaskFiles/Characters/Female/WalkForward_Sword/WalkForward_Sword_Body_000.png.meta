@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 840
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d154fbfb02a8cf48af7cf133d64bf6c
+      internalID: 726490861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 835
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd315b1aa0a90b2419c4e2e87aa0c512
+      internalID: 2113634900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 833
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96cd5796a680c642a5020bb67441d54
+      internalID: 199982209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 831
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40782fdd45580e42b0bfd70537a0134
+      internalID: -471924728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_4
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 826
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84638661453305448d2c304920447a3
+      internalID: -1220713227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_5
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 824
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455f501845505745bf1c44ae36eff43
+      internalID: -1078017824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 565
+        width: 71
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb7c81df54bee42a057af74dd13fee
+      internalID: 1920950030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 564
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d515cb2058bfda9448a3d16e5da66108
+      internalID: -650452547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 565
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb77127156db343b6c7b86473b21d1
+      internalID: 703791204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 571
+        width: 69
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561184b9e76a638409464e327832f5ad
+      internalID: -1040339872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_10
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 574
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e1fc58503aa9347bbae838cc32e216
+      internalID: 487031692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_11
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 577
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5932ee244fad468404a631925e668
+      internalID: 1980689823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 328
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec2f898722c4d45b430028ca7b56cf
+      internalID: 2054652284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 326
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7febe6e9e67664eb7a1de93211a9cd
+      internalID: -916923607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 322
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca075e1197ee44f44a4a3c12ea79c1e4
+      internalID: -109198897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 319
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938831ac894cd9b4585a9ae2b81654f5
+      internalID: 1216084903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 317
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003b00bd1f4cad4dbd7ffd90b0e1f68
+      internalID: -1142341414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_17
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 312
+        width: 64
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82fb9974a87a0544af6059691261a20
+      internalID: 1437349211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 64
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a527befb06914c9078e247e169408
+      internalID: 1681859433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 53
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3863be51d004b4b8cabc39f48492fe
+      internalID: 717563704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 54
+        width: 64
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2cc0034f15f345ba5f1e6ba8ec3a3
+      internalID: -1272080829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_21
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 55
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8a6973dbb2a44bb5448a81904bf7c
+      internalID: 648606970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_22
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 63
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b87a58d1fb2f94986558559f19ebed
+      internalID: 238848739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward_Sword_Body_000_23
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 69
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476da842b0a6bb642bff42096b758852
+      internalID: 985155563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +636,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WalkForward_Sword_Body_000_0: 726490861
+      WalkForward_Sword_Body_000_1: 2113634900
+      WalkForward_Sword_Body_000_10: 487031692
+      WalkForward_Sword_Body_000_11: 1980689823
+      WalkForward_Sword_Body_000_12: 2054652284
+      WalkForward_Sword_Body_000_13: -916923607
+      WalkForward_Sword_Body_000_14: -109198897
+      WalkForward_Sword_Body_000_15: 1216084903
+      WalkForward_Sword_Body_000_16: -1142341414
+      WalkForward_Sword_Body_000_17: 1437349211
+      WalkForward_Sword_Body_000_18: 1681859433
+      WalkForward_Sword_Body_000_19: 717563704
+      WalkForward_Sword_Body_000_2: 199982209
+      WalkForward_Sword_Body_000_20: -1272080829
+      WalkForward_Sword_Body_000_21: 648606970
+      WalkForward_Sword_Body_000_22: 238848739
+      WalkForward_Sword_Body_000_23: 985155563
+      WalkForward_Sword_Body_000_3: -471924728
+      WalkForward_Sword_Body_000_4: -1220713227
+      WalkForward_Sword_Body_000_5: -1078017824
+      WalkForward_Sword_Body_000_6: 1920950030
+      WalkForward_Sword_Body_000_7: -650452547
+      WalkForward_Sword_Body_000_8: 703791204
+      WalkForward_Sword_Body_000_9: -1040339872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
