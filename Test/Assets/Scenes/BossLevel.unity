@@ -1486,6 +1486,14 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 176782802}
+    - target: {fileID: 478920118971615093, guid: 05faf207935e28e4f86c80012db908d2, type: 3}
+      propertyPath: attackDistans
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 478920118971615093, guid: 05faf207935e28e4f86c80012db908d2, type: 3}
+      propertyPath: targetDistans
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1886736163362902498, guid: 05faf207935e28e4f86c80012db908d2, type: 3}
       propertyPath: m_Name
       value: Enemie
